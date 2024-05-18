@@ -1,2 +1,4 @@
-# playstore_analytics
-First mini project for karpov.courses. Module "application development in python". Work with pandas
+# Анализ данных Google Play Store: Проект [Start ML](https://karpov.courses/ml-start) Module 1
+
+## Описание проекта
+Проект направлен на изучение библиотеки `pandas`, а также попробовать обработать датасет для последующего построения модели
